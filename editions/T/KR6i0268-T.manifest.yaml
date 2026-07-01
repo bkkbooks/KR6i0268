@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0268/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0268/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說法律三昧經
+  identifiers:
+    krp: KR6i0268
+    cbeta: T15n0631
+    cbeta_old_id: T15n0631
+    authorityid: CA0000935
+    json_key: T0631
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0631.xml
+    old_id: T15n0631
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0268_000-T.yaml, hash: 'sha256:5b147309aeb6b5b9664edc1d44fd9680f3b64754071a78f3c6f7919f27836ea4'}
+  - {seq: 1, filename: KR6i0268_001-T.yaml, hash: 'sha256:9564bc6d8c424eee0f96a6d30e90be025e399c227aed52c0dc861128dfa743a2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0268_000-T.markers.yaml, hash: 'sha256:87323fd50436855470b802ddb8b4c0a1ec1ec3812ded35edf1e04f76541a7909'}
+  - {seq: 1, role: markers, filename: assets/KR6i0268_001-T.markers.yaml, hash: 'sha256:da8922cc6937ea0813dbf5f00759831bb1f5cffad54297a0f259adf33abf2fa9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0268_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3137
+  label: 佛說法律三昧經
+  type: juan
+  level: 1
+hash: sha256:1d185dc2e71e43695931a67d1b0073260eafc1e2fc2fa7b7a8e0e0437fcf05eb

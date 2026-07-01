@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0268/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說法律三昧經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0631.xml
+    old_id: T15n0631
+hash: sha256:5b147309aeb6b5b9664edc1d44fd9680f3b64754071a78f3c6f7919f27836ea4
