@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0268/v1
 canonical_location: https://kanripo.org/bkk/KR6i0268/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說法律三昧經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0268_000.yaml, hash: 'sha256:5b147309aeb6b5b9664edc1d44fd9680f3b64754071a78f3c6f7919f27836ea4'}
-  - {seq: 1, filename: KR6i0268_001.yaml, hash: 'sha256:9564bc6d8c424eee0f96a6d30e90be025e399c227aed52c0dc861128dfa743a2'}
+  - {seq: 1, filename: KR6i0268_001.yaml, hash: 'sha256:558399d605d5a40e252476e0501d3de9a94c8b1445c5b902f2f2f7c540dde7e0'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0268_000.markers.yaml, hash: 'sha256:93cd1fcdac4a9e95efb8d6f4443f74ed0027f3d0acaaed7a4f35e49cb1dd0b98'}
-  - {seq: 1, role: markers, filename: assets/KR6i0268_001.markers.yaml, hash: 'sha256:911038db33989cba56f477e8f6a825da2087c6a6b76198965a92952a6625a26e'}
+  - {seq: 1, role: markers, filename: assets/KR6i0268_001.markers.yaml, hash: 'sha256:ed69f267a0e0f0371b578bc59d2ebd7ff7a3d4ee6ca023621bbc918849a65c8b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 佛說法律三昧經
   type: juan
   level: 1
-hash: sha256:99866d3632718ff03ab26612dcd34d55000be5485db84351e255216964ac843c
+hash: sha256:3e94bb041518692c3bf112430e82c753535e26733c03ac9ecac87de578aa5dd9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
